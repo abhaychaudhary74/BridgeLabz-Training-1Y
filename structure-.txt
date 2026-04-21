@@ -1,0 +1,7 @@
+structure:- 
+class student{
+public static void main (String args[]);
+{
+body of program
+System.out.println("Hello world");
+}}
